@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-## 🛠 Technologies & Tools
+### 🛠 Technologies, Tools & Languages
 ![ARCH](https://skillicons.dev/icons?i=arch)
 ![ARDUINO](https://skillicons.dev/icons?i=arduino)
 ![C](https://skillicons.dev/icons?i=c)
