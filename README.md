@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-### 🛠 Technologies, Tools & Languages
+### Technologies, Tools & Languages
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![JAVA](https://skillicons.dev/icons?i=java)
